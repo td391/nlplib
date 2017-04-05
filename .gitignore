@@ -1,0 +1,6 @@
+*~
+*.pyc
+.cache
+docs/build
+.idea
+venv
